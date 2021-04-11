@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://kutubuku.surge.sh/"
+baseURL = "https://b.idan.my.id/"
 title = "KutuBuku - Personal Blog"
 theme = "bookworm"
 # post pagination
@@ -80,7 +80,7 @@ search = true
 # main section
 mainSections = ["post"]
 # copyright
-copyright = "Designed & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Developed By [NgopiBrek!](https://idan.my.id)"
 
 # Preloader
 [params.preloader]
