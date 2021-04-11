@@ -78,7 +78,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 # search
 search = true
 # main section
-mainSections = ["blog"]
+mainSections = ["post"]
 # copyright
 copyright = "Designed & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
